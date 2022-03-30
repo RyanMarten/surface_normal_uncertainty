@@ -1,0 +1,5 @@
+examples/
+checkpoints/
+*.csv
+*.ipynb_checkpoints
+*__pycache__
